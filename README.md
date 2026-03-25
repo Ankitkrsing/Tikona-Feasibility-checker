@@ -18,7 +18,7 @@ A fast and efficient tool to check the feasibility of network locations based on
 
 ## 📋 Project Description
 
-**Tikona Feasibility Checker** is a web-based application designed for network engineers to quickly validate the feasibility of proposed locations within the TDN (Telecom Data Network) infrastructure.
+**Tikona Feasibility Checker** is a web-based application designed for network engineers to quickly validate the feasibility of proposed locations within the TDN (Tikona Direct Network) infrastructure.
 
 The tool automates **distance-based feasibility checks** across bulk location datasets, reducing manual effort and enabling faster decision-making for network expansion and planning.
 
@@ -193,7 +193,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Ankit Kumar Singh**
 - GitHub: [@Ankitkrsing](https://github.com/Ankitkrsing)
-- LinkedIn: [Your Profile](https://linkedin.com/in/yourprofile)
+- LinkedIn: www.linkedin.com/in/ankit-singh-704a47287
 
 ---
 
